@@ -20,7 +20,7 @@ class MyAppBar extends StatelessWidget {
               title,
               style:
                   //TextStyle(fontSize: 20)
-                  GoogleFonts.bebasNeue(fontSize: 62),
+                  GoogleFonts.bebasNeue(fontSize: 47, color: Colors.white),
             ),
           ),
 

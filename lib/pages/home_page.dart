@@ -39,7 +39,7 @@ class _HomePageState extends State<HomePage> {
     return DefaultTabController(
       length: tabOptions.length,
       child: Scaffold(
-        backgroundColor: Colors.grey[300],
+        backgroundColor: Color.fromARGB(255, 20, 17, 82),
         extendBody: true,
         bottomNavigationBar: GlassBox(
           child: MyBoottomBar(
